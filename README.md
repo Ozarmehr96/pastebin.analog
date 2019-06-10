@@ -1,2 +1,3 @@
 # pastebin.analog
-РђРЅР°Р»РѕРі СЃРёСЃС‚РµРјС‹ pastebin.com
+
+Аналог системы pastebin.com
