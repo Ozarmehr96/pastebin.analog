@@ -1,4 +1,4 @@
-<?php
+﻿<?php
 
 /* @var $this yii\web\View */
 
@@ -23,7 +23,6 @@ $this->registerJsVar('public_href_pastes', $public_href_pastes);
                         <option value="3 hours">3 часа</option>
                         <option value="1 days">1 день часа</option>
                         <option value="1 week">1 неделя</option>
-                        <option value="3 month">3 месяц</option>
                         <option value="1 month">1 месяц</option>
                         <option value="-">Без ограничения</option>
                     </select>
